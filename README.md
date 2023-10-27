@@ -1,8 +1,6 @@
 # Introdução a Git e GitHub :octocat:
 
-- Git é um sistema de controle de versão distribuído, no qual cada membro mantém uma cópia do código e contribui enviando suas modificações para o repositório principal. O GitHub é uma plataforma que hospeda repositórios Git.
-
-[Site oficial do Git](https://git-scm.com/)
+- Git é um sistema de controle de versão distribuído, no qual cada membro mantém uma cópia do código e contribui enviando suas modificações para o repositório principal. O GitHub é uma plataforma que hospeda repositórios Git.[Site oficial do Git](https://git-scm.com/)
 
 ## Configurando o Git
 
