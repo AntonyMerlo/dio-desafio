@@ -1,6 +1,4 @@
-# dio-desafio
-
-## Introdução a Git e GitHub :octocat:
+# Introdução a Git e GitHub :octocat:
 
 - Git é um sistema de controle de versão distribuído, no qual cada membro mantém uma cópia do código e contribui enviando suas modificações para o repositório principal. O GitHub é uma plataforma que hospeda repositórios Git.
 
